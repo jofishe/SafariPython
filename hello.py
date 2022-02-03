@@ -67,4 +67,8 @@ elif x > 100:
 # OK, but why?
 if x: print("yup, it's still true"); print("more")
 
-# list, tuple, dict
+x = 3
+y = 10
+print(y / x)
+print(y // x)
+
